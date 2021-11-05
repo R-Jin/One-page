@@ -10,7 +10,7 @@ npm install
 ```
 To make the weather widget work create a openweathermap account and create a api key. Create a .env file in the root of the project check out the .env.example file.
 
-To edit the weather location. Change the `city` variable in `src/api.js`.
+To edit the weather location. Change the `city` variable in `src/api.js`. The city codes are available on [openweatherapi](https://openweathermap.org/)
 
 Change artwork in `src/misc/artwork/` and change the file name to `artwork.jpg`.
 
