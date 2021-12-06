@@ -1,6 +1,6 @@
 # One Page
 ### A custom startpage built with React.js
-![Nov05-08-51](https://user-images.githubusercontent.com/52547912/140478798-364f418d-74f5-4f7c-bab1-e3d6b3650c24.png)
+![image](https://user-images.githubusercontent.com/52547912/144870547-ee3780b4-16fe-4041-a83d-dc2e16be05b4.png)
 
 ### Install
 ```
