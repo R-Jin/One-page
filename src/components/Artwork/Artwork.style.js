@@ -6,7 +6,8 @@ export const Content = styled.div`
     background: url(${artwork});
     background-size: cover;
     background-position: center;
-    margin-right: 8rem;
     border: solid 3px var(--lightGray);
-    min-width: 350px;
+    margin-right: 80px;
+    min-width: 15.625rem;
+    max-width: 25.5rem;
 `;

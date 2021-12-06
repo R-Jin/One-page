@@ -49,15 +49,16 @@ export default App;
 const Wrapper = styled.div`
     padding: 10rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     background-color: var(--bg-color);
     height: 100vh;
-    padding: 12rem 20rem;
 `;
 
 const Container = styled.div`
     display: flex;
-    flex: 2;
+    flex: 3;
     flex-direction: column;
     justify-content: space-between;
+    min-width: 26.25rem;
+    max-width: 40rem;
 `;
